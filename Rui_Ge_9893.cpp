@@ -1,6 +1,5 @@
 #include "pch.h"
 #include <iostream>
-#include"math.h"
 int aa(int x, int y);
 
 int main()
